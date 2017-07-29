@@ -1,6 +1,6 @@
 ## About Me
 
-I am pursuing my M.Tech in National Institute of Technology,Karnataka.I am currently working under Dr.Mohit.P.Tahiliani in the area of computer networks.More about me can be found from my resume[www.google.com].
+I am pursuing my M.Tech in National Institute of Technology,Karnataka.I am currently working under Dr.Mohit.P.Tahiliani in the area of computer networks.More about me can be found from [my resume](https://github.com/gnandita/gnandita.github.io/blob/master/resume.pdf).
 
 ## Projects
 
