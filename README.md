@@ -22,7 +22,7 @@ CHOKe (CHOose and Keep for responsive flows, CHOose and Kill for unresponsive fl
 Management algorithm that punishes flows which send more packets than their fair share to a router.Test cases are
 written to validate the code.
 
-- **Implementation of Explicit Loss Notification in ns-3(ongoing):
+- **Implementation of Explicit Loss Notification in ns-3(ongoing)**:
 
 Explicit Loss Notification (ELN) is a mechanism which explains whether the loss of a packet is unrelated to network
 congestion to the sender.
