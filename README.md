@@ -31,11 +31,11 @@ congestion to the sender.
 
 Implemented the paper "An Improved Canny Edge Detection Algorithm" which details about a modification of Canny edge
 detection algorithm to reduce the sensitivity of Edge detection algorithm to noise and to preserve weak edge information
-also
+also.
 
 ## Contact
-Linkedin[www.google.com]
+[Linkedin](https://www.linkedin.com/in/nandita-gurunathan-5b72789b/)
 
-Github[www.google.com]
+[Github](https://github.com/gnandita)
 
-Facebook[www.google.com]
+[Facebook](https://www.facebook.com/profile.php?id=100008612346862)
